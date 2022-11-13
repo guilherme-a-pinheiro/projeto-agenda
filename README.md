@@ -6,15 +6,16 @@ Este projeto é uma aplicação full stack web construída durante os meus estud
 
 A aplicação consiste em um CRUD com JavaScript, com as funcionalidades de login e autenticação de usuário, cadastro e manipulação de novos contatos com conexão com o banco de dados MongoDB.
 
-
 ## Layout web
-![Web 1]("imgs/home-deslogado.png")
+![Web 1](./imgs/home-deslogado.PNG)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 2](./imgs/login.PNG)
 
-![Web 3](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 3](./imgs/home-logado.PNG)
 
-![Web 4](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Web 4](./imgs/cadastrar-contato.PNG)
+
+![Web 5](./imgs/contatos.PNG)
 
 # Tecnologias utilizadas
 ## Back end
