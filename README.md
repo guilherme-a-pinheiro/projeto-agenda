@@ -8,9 +8,13 @@ A aplicação consiste em um CRUD com JavaScript, com as funcionalidades de logi
 
 
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1](https://github.com/guilherme-a-pinheiro/projeto-agenda/blob/main/imgs/home-deslogado-projeto-agenda.PNG)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+
+![Web 3](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+
+![Web 4](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
 # Tecnologias utilizadas
 ## Back end
