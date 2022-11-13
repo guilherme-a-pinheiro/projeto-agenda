@@ -14,6 +14,16 @@
       <% if(contatos.length > 0) {%>
       <div class="responsive-table">
         <table class="table my-3">
+          <tr>
+            <% if(contatos.length > 0) { %>
+            <td style="background-color: #343a40; color: #fff;">Nome</td>
+            <td style="background-color: #343a40; color: #fff;">Sobrenome</td>
+            <td style="background-color: #343a40; color: #fff;">Telefone</td>
+            <td style="background-color: #343a40; color: #fff;">E-mail</td>
+            <td style="background-color: #343a40; color: #fff;">Edições</td>
+            <td style="background-color: #343a40; color: #fff;">Exclusões</td>
+            <% } %>
+          </tr>
           <% contatos.forEach(contato => { %>
           <tr>
             <td><%= contato.nome %></td>
